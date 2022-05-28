@@ -1,6 +1,7 @@
 # Movie Recommender System
 <div style="display: flex;">
-This is a <img src="https://www.freepnglogos.com/uploads/microsoft-logo-4.png" alt="Microsoft_Logo" width="100"/> Engage Project.
+<img src="https://www.freepnglogos.com/uploads/microsoft-logo-4.png" alt="Microsoft_Logo" width="100"/>
+This is a Microsoft Engage Project.
 </div>
 
 <h3>Engage 2022</h3>
