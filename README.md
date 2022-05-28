@@ -1,4 +1,7 @@
-# movie-recommender-system
+# Movie Recommender System
+This is a <img src="https://www.freepnglogos.com/uploads/microsoft-logo-4.png" alt="Microsoft_Logo" width="50"/> Engage Project.
+# Engage 2022
+Intern Engage is a program for engineering students across India graduating in 2024. It is designed to provide a platform for engineering students to accelerate their growth and foster industry-relevant skills through mentorship, coding challenges, workshops and networking opportunities.
 
 # Tech Used
  <div style="display: flex;">
