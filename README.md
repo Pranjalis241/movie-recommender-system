@@ -7,9 +7,9 @@ This is a Microsoft Engage Project.
 Intern Engage is a program for engineering students across India graduating in 2024. It is designed to provide a platform for engineering students to accelerate their growth and foster industry-relevant skills through mentorship, coding challenges, workshops and networking opportunities.
 
 # Requirements
-Firstly you have to download the <a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv">Data Set</a> then, you have to run the Jupyter Notebook and include those dataset, At the end of the Jupyter Notebook 3 pkl data frames will be generated named movie_dict.pkl, movies.pkl and similarity.pkl.
+Firstly you have to download the <a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv">Data Set</a> then, you have to run the Jupyter Notebook and include those dataset, At the end of the Jupyter Notebook 3 pkl data frames will be generated named movie_dict.pkl, movies.pkl and similarity.pkl.<br>
 After that, you'll have to create a project in PyCharm IDE and download all the library which will required like numpy, panda, streamlit etc.
-And then you have to run stream run ```streamlit run app.py```
+<br>And then you have to run stream run ```streamlit run app.py```
 
 # Tech Used
  <div style="display: flex;">
