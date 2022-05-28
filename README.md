@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-<div style="display: flex, vertical-align: middle;">
+<div style="display: flex, align-items:center;">
 <img src="https://www.freepnglogos.com/uploads/microsoft-logo-4.png" alt="Microsoft_Logo" width="100"/>
 This is a Microsoft Engage Project.
 </div>
