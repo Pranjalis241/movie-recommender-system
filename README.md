@@ -1,7 +1,7 @@
 # Movie Recommender System
 
-<div style="display: flex, align-items : center;">
-This is a <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft_Logo" width="15"/> Microsoft Engage Project.
+<div style="display: flex;">
+This is a Microsoft Engage Project.
 </div>
 
 <h3><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft_Logo" width="15"/> Engage 2022</h3>
